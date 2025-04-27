@@ -19,6 +19,6 @@
     "vite": "^6.3.3"
   },
   "dependencies": {
-    "svelte-maplibre": "^0.9.0"
+    "svelte-maplibre": "^1.0.0"
   }
 }
